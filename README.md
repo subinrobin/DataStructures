@@ -1,2 +1,2 @@
 # DataStructures
-Solve Data Structure problems
+This repository contains solutions of HackerEarth Problems in Scala language.
