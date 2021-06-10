@@ -1,2 +1,7 @@
 *.class
 *.log
+/target/
+/.cache-main
+/.classpath
+/.project
+/.settings/
